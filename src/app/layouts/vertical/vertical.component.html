@@ -1,0 +1,22 @@
+<div id="layout-wrapper">
+  <app-topbar (mobileMenuButtonClicked)="onToggleMobileMenu()" (settingsButtonClicked)="onSettingsButtonClicked()">
+  </app-topbar>
+  <app-sidebar></app-sidebar>
+  <!-- ============================================================== -->
+  <!-- Start right Content here -->
+  <!-- ============================================================== -->
+  <div class="main-content">
+    <div class="page-content">
+      <router-outlet></router-outlet>
+    </div>
+
+<<<<<<< HEAD
+    
+=======
+    <app-footer></app-footer>
+>>>>>>> 87a445450 (integration user cleaned)
+  </div>
+
+  <app-rightsidebar></app-rightsidebar>
+</div>
+<!-- END layout-wrapper -->
