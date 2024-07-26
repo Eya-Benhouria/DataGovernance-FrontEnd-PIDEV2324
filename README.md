@@ -4,6 +4,15 @@ Esprit 4 th year pidev project given by DatsConnection
 Angular Frontend application for managing data governance and extracting metadata.
 
 
+![image](https://github.com/user-attachments/assets/d7990716-8d1d-4f52-ac3c-42a0dd80a051)
+
+![image](https://github.com/user-attachments/assets/ee715755-e792-4e7a-bc9c-d34a20021cf1)
+
+![image](https://github.com/user-attachments/assets/61f4da95-2d64-42c0-835c-88f3c871b352)
+
+![image](https://github.com/user-attachments/assets/80349aab-96aa-4eaf-96e6-a7fbfdeb96d1)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
